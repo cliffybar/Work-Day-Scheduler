@@ -1,7 +1,6 @@
 // current day is displayed at top of calendar
-
-// var todayEl = document.querySelector("#currentDay");
-// todayEl.appendChild(now);
+var now = moment().format("dddd, MMMM Do, YYYY, h:mm:ss A");
+$('#currentDay').append(now);
 
 // presented with time blocks for standard business hours (8-5)
     // divide by hour
