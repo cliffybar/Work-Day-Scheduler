@@ -2,7 +2,7 @@
 var now = moment().format("dddd, MMMM Do, YYYY, h:mm:ss A");
 $('#currentDay').append(now);
 
-// presented with time blocks for standard business hours (8-5)
+// presented with time blocks for standard business hours (9-5)
     // divide by hour
 
 //each time block is color-coded to indicate whether it is in the past, present, or future 
