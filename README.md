@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Webpage front page](/assets/webpage.jpg)
+![Webpage front page](/assets/images/webpage.jpg)
 
 </br>
 
