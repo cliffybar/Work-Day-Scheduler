@@ -1,4 +1,4 @@
-node_modules
+.DS_Storen
+ode_modules
 package-lock.json
 .vscode
-.DS_Store
