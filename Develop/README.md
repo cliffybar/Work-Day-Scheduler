@@ -29,4 +29,4 @@ Work Day Scheduler is so simple, you never have to worry about missing an event!
 
 ## Get Productive
 
-Time starts now at [Work Day Scheduler](https://cliffybar.github.io/Horiseon-Recon-and-Refactor/)!
+Time starts now at [Work Day Scheduler](https://cliffybar.github.io/Work-Day-Scheduler/.)!
